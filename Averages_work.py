@@ -6,6 +6,6 @@ df.head()
 
 df.describe()
 
-# Let's see what the mode value is for everyone
-df["value"].mode()
+# Let's see what the max value is for everyone
+df["value"].max()
 
