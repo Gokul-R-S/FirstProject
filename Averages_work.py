@@ -6,6 +6,6 @@ df.head()
 
 df.describe()
 
-# Let's see what the max value is for everyone
-df["value"].max()
+# Let's see what the min value is for everyone
+df["value"].min()
 
